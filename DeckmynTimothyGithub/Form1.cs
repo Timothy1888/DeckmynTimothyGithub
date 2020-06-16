@@ -15,6 +15,10 @@ namespace DeckmynTimothyGithub
         public Form1()
         {
             InitializeComponent();
+            //test Jonckheere Conny 10:45 uur
+            //testie
+            //juw
+            //yyyyyyyyy
         }
 
         private void button1_Click(object sender, EventArgs e)
